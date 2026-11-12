@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "attribution": "© OpenStreetMap contributors",
+  "license": "ODbL-1.0",
+  "source": "https://download.geofabrik.de/europe/spain.html",
+  "regions": [
+    {"id":"andalucia","name":"Andalucía","sourcePbf":"https://download.geofabrik.de/europe/spain/andalucia-latest.osm.pbf","package":"packs/andalucia.json.gz","status":"pending"},
+    {"id":"aragon","name":"Aragón","sourcePbf":"https://download.geofabrik.de/europe/spain/aragon-latest.osm.pbf","package":"packs/aragon.json.gz","status":"pending"},
+    {"id":"asturias","name":"Asturias","sourcePbf":"https://download.geofabrik.de/europe/spain/asturias-latest.osm.pbf","package":"packs/asturias.json.gz","status":"pending"},
+    {"id":"cantabria","name":"Cantabria","sourcePbf":"https://download.geofabrik.de/europe/spain/cantabria-latest.osm.pbf","package":"packs/cantabria.json.gz","status":"pending"},
+    {"id":"castilla-la-mancha","name":"Castilla-La Mancha","sourcePbf":"https://download.geofabrik.de/europe/spain/castilla-la-mancha-latest.osm.pbf","package":"packs/castilla-la-mancha.json.gz","status":"pending"},
+    {"id":"castilla-y-leon","name":"Castilla y León","sourcePbf":"https://download.geofabrik.de/europe/spain/castilla-y-leon-latest.osm.pbf","package":"packs/castilla-y-leon.json.gz","status":"pending"},
+    {"id":"cataluna","name":"Cataluña","sourcePbf":"https://download.geofabrik.de/europe/spain/cataluna-latest.osm.pbf","package":"packs/cataluna.json.gz","status":"pending"},
+    {"id":"ceuta","name":"Ceuta","sourcePbf":"https://download.geofabrik.de/europe/spain/ceuta-latest.osm.pbf","package":"packs/ceuta.json.gz","status":"pending"},
+    {"id":"extremadura","name":"Extremadura","sourcePbf":"https://download.geofabrik.de/europe/spain/extremadura-latest.osm.pbf","package":"packs/extremadura.json.gz","status":"pending"},
+    {"id":"galicia","name":"Galicia","sourcePbf":"https://download.geofabrik.de/europe/spain/galicia-latest.osm.pbf","package":"packs/galicia.json.gz","status":"pending"},
+    {"id":"islas-baleares","name":"Islas Baleares","sourcePbf":"https://download.geofabrik.de/europe/spain/islas-baleares-latest.osm.pbf","package":"packs/islas-baleares.json.gz","status":"pending"},
+    {"id":"la-rioja","name":"La Rioja","sourcePbf":"https://download.geofabrik.de/europe/spain/la-rioja-latest.osm.pbf","package":"packs/la-rioja.json.gz","status":"pending"},
+    {"id":"madrid","name":"Madrid","sourcePbf":"https://download.geofabrik.de/europe/spain/madrid-latest.osm.pbf","package":"packs/madrid.json.gz","status":"pending"},
+    {"id":"melilla","name":"Melilla","sourcePbf":"https://download.geofabrik.de/europe/spain/melilla-latest.osm.pbf","package":"packs/melilla.json.gz","status":"pending"},
+    {"id":"murcia","name":"Murcia","sourcePbf":"https://download.geofabrik.de/europe/spain/murcia-latest.osm.pbf","package":"packs/murcia.json.gz","status":"pending"},
+    {"id":"navarra","name":"Navarra","sourcePbf":"https://download.geofabrik.de/europe/spain/navarra-latest.osm.pbf","package":"packs/navarra.json.gz","status":"pending"},
+    {"id":"pais-vasco","name":"País Vasco","sourcePbf":"https://download.geofabrik.de/europe/spain/pais-vasco-latest.osm.pbf","package":"packs/pais-vasco.json.gz","status":"pending"},
+    {"id":"valencia","name":"Comunitat Valenciana","sourcePbf":"https://download.geofabrik.de/europe/spain/valencia-latest.osm.pbf","package":"packs/valencia.json.gz","status":"pending"}
+  ]
+}
+
